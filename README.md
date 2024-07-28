@@ -12,9 +12,13 @@ AI, NLP, CV, RecSys, Math, GenAI
 https://velog.io/@freedy/series/AI
 
 
-## 논문 스터디 목록
-https://github.com/terryum/awesome-deep-learning-papers
-https://github.com/hongleizhang/RSPapers
+## 논문 스터디
+https://github.com/terryum/awesome-deep-learning-papers/
+
+https://github.com/hongleizhang/RSPapers/
+
 https://paperswithcode.com/
+
 https://papers.nips.cc/
+
 https://www.thecvf.com/
