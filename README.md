@@ -5,6 +5,7 @@ AI, 인공지능, NLP, GenAI, RecSys, CV, math
 - GenAI API, 플러그인
 - NLP
 - Math (Linear Algebra)
+- Deep Learning
 
 
 ## 기술블로그
