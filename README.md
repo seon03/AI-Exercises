@@ -1,4 +1,4 @@
-# Artificial Intelligence
+# Exercise
 AI, NLP, CV, RecSys, Math, GenAI
 
 - AI 과제
