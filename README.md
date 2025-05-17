@@ -1,24 +1,22 @@
 # Exercise
-AI, NLP, CV, RecSys, Math, GenAI
+> - 학교 AI 강의 과제
+> - Deep Learning
+> - Math (Linear Algebra, Statistics)
+> - 실습 (STS, MLP, 최적화 및 경량화, LDA)
+> - 논문 리뷰 및 코드 구현
 
-- AI 과제
-- Math (Linear Algebra, Statistics)
-- Deep Learning
-- GenAI API, 플러그인
-- NLP
+### 논문 리뷰
+> - Transformer
+<details>
+<summary>참고 링크</summary>
 
+- https://github.com/terryum/awesome-deep-learning-papers/
 
-## 기술블로그
-https://velog.io/@freedy/series/AI
+- https://github.com/hongleizhang/RSPapers/
 
+- https://paperswithcode.com/
 
-## 논문 스터디
-https://github.com/terryum/awesome-deep-learning-papers/
+- https://papers.nips.cc/
 
-https://github.com/hongleizhang/RSPapers/
-
-https://paperswithcode.com/
-
-https://papers.nips.cc/
-
-https://www.thecvf.com/
+- https://www.thecvf.com/
+</details>
