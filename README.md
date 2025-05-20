@@ -1,8 +1,8 @@
 # Exercise
-> - 학교 AI 과제
-> - Deep Learning
-> - Math (Linear Algebra, Statistics)
-> - 실습 (STS, MLP, 최적화 및 경량화, LDA, AI Agent)
+> - 학교 AI 과제 (word2vec, doc2vec, LDA)
+> - Deep Learning (PyTorch)
+> - AI Math (Linear Algebra, Statistics)
+> - AI 실습 (MLP, 모델 최적화 및 경량화, AI Agent)
 > - 논문 리뷰 및 코드 구현
 
 ### 논문 리뷰

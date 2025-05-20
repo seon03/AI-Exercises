@@ -1,2 +1,3 @@
 # Math
 ## Linear Algebra
+## Statistics
