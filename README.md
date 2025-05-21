@@ -18,4 +18,6 @@
 > - https://papers.nips.cc/
 >
 > - https://www.thecvf.com/
+>
+> - https://huggingface.co/papers
 > </details>
